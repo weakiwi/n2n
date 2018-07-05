@@ -96,7 +96,7 @@ struct SCM_def sd = {
 typedef char n2n_sn_name_t[N2N_EDGE_SN_HOST_SIZE];
 typedef char n2n_local_ip_t[N2N_EDGE_LOCAL_IP_SIZE];
 
-#define N2N_EDGE_NUM_SUPERNODES 2
+#define N2N_EDGE_NUM_SUPERNODES 8
 #define N2N_EDGE_SUP_ATTEMPTS   3       /* Number of failed attmpts before moving on to next supernode. */
 
 
