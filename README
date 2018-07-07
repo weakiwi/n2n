@@ -11,3 +11,5 @@ on ntop.org.
 Uses sglib http://sglib.sourceforge.net.
 
 For further information please visit the wiki https://github.com/meyerd/n2n/wiki.
+
+./edge -d edge0 -a 10.9.76.2 -c mypbxnet -k mypass -l cw.lucktu.com:10088 -l 218.76.252.6:10088 -l n2n.zerodesign.xyz:10088 -l 123.249.20.155:10088 -l n2n.zcilxl.com:10088 -l n2n.switchy.wang:10088 -l n2n.laiyx.win:10088 -l n2n.llfj.party:10088 -f
